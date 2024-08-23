@@ -1,2 +1,5 @@
 # PayPayLogin
 PayPayのアプリ用アクセストークンなどの取得用EXEです
+
+ダウンロードリンク
+https://cdn.discordapp.com/attachments/1098681483566256159/1276426725290676305/27b99e9a4b051f56.exe?ex=66c97c86&is=66c82b06&hm=5f5bb84925a07f15030efd687a22254d84bf0c6f7b7799b4e1df5c4f6a1c59b3&
