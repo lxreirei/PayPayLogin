@@ -1,0 +1,2 @@
+# PayPayLogin
+PayPayのアプリ用アクセストークンなどの取得用EXEです
